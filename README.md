@@ -4,7 +4,7 @@ This portfolio is a compilation of projects I've completed for machine learning,
 
 ## Stand-alone Projects
 
-### MNIST Fashion Images classification
+### Images classification
 - Using Binary classification and Multiclass classification using logistic regression, SVR and Decision Trees. 
 - The code can be found [here](https://github.com/AnnieQurat/Image-classification-)
 
