@@ -1,17 +1,18 @@
 # Data Analyst Portfolio by Annie Qurat 
 This portfolio showcases my work in data analysis, business analytics, and data science, combining real-world experience with technical projects.
 My focus is on:
-- transforming raw data into structured insights
-- building dashboards and analytical tools
-- supporting data-driven decision-making
+- Transforming raw data into structured insights
+- Building dashboards and analytical tools
+- Supporting data-driven decision-making
 
-## Featured Projects
+### Featured Projects
 Retail Sales & Pricing Analysis (SQL + Python) (in progress)
 - End-to-end analysis using SQL for data transformation and Python for analysis and visualization
 - Focused on revenue drivers, discount impact, and regional performance
 - Demonstrates real-world data analyst workflow
+- The code can be found [here](https://github.com/AnnieQurat/)
 
-# Data Science Projects (Academic)
+### Data Science Projects (Academic)
 
 ### Images classification
 - Built classification models to identify image categories using machine learning techniques
