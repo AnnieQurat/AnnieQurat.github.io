@@ -12,7 +12,7 @@ My focus is on:
 - Demonstrates real-world data analyst workflow
 - The code can be found [here](https://github.com/AnnieQurat/)
 
-## Data Science Projects (Academic)
+## Data Science Projects (Academic work MSc Data Science)
 
 ### Images classification
 - Built classification models to identify image categories using machine learning techniques
@@ -46,7 +46,15 @@ My focus is on:
 - Cleaned and preprocessed large-scale text datasets and converted them into structured NER format (BIO tagging)
 - Defined and annotated 14 custom entity types (e.g., attacks, tools, vulnerabilities, protocols) from real-world hacking discussions
 - Applied BiLSTM-CRF and fine-tuned BERT models to identify entities in unseen text data
-- Achieved ~97–98% validation accuracy on benchmark and domain-specific datasetsThe code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
+- Achieved ~97–98% validation accuracy on benchmark and domain-specific datasets
+- The code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
+
+### Big Data Analysis with Apache Spark
+- Processed large-scale Twitter data using Apache Spark (RDDs, DataFrames)
+- Computed user connectivity metrics and network relationships
+- Applied distributed transformations (map, reduce, join) for scalable analysis
+- Performed aggregation and statistical analysis on structured datasets
+- - The code can be found [here](https://github.com/AnnieQurat/Big-Data-)
 
 ### About Me
 Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
