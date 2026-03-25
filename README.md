@@ -29,15 +29,15 @@ My focus is on:
 
 ### Selected Machine Learning Projects
 - **Image Classification:** Built classification models to identify image categories and compare model performance (Binary and Multiclass classification using logistic regression, SVR and Decision Trees) 
-  [link](https://github.com/AnnieQurat/Image-classification-)
+  [View Project](https://github.com/AnnieQurat/Image-classification-)
 - **Urban Sound Classification:** Extracted MFCC features and trained CNN models to classify urban sounds
-  [link](https://github.com/AnnieQurat/Sound-Classification)
+  [View Project](https://github.com/AnnieQurat/Sound-Classification)
 - **Predicting Car Prices (Part 1):**  Built regression models to estimate car prices and compare model performance (Linear Regression, Polynomial transformation, Lasso regularization and SVR)
-  [link](https://github.com/AnnieQurat/Machine-Learning-Predicting-Car-Prices-Part-1)
+  [View Project](https://github.com/AnnieQurat/Machine-Learning-Predicting-Car-Prices-Part-1)
 - **Predicting Car Prices (Part 2):** Applied ensemble and tree-based models for price prediction (KNN Regressor, Decision Tree Regressor, Ensemble Bagging Regressor, and Random Forest Regressor)
-  [link](https://github.com/AnnieQurat/Machine-Learning-Models-for-Prediction)
+  [View Project](https://github.com/AnnieQurat/Machine-Learning-Models-for-Prediction)
 - **Hand-Signs classification:** Applied classification algorithms (SVM, ANN, Naive Bayes, Decision Trees) to recognize hand signs
-  [link](https://github.com/AnnieQurat/Hand-signs-classification)
+  [View Project](https://github.com/AnnieQurat/Hand-signs-classification)
 
 ## About Me
 Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
