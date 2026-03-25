@@ -1,11 +1,26 @@
-## Data Analyst Portfolio by Annie Qurat 
-This portfolio showcases my work in data analysis, business analytics, and data science, combining real-world experience with technical projects.
-My focus is on:
+# Hi, I'm Annie Qurat 👋
+
+Data Analyst focused on turning complex data into clear business insights.
+
+📍 Erlangen, Germany | Open to relocation  
+📊 SQL • Python • Power BI  
+
+---
+
+## 📄 Resume
+👉 [Download Resume](https://github.com/AnnieQurat/AnnieQurat.github.io/raw/master/Annie_Qurat_Data_Analyst_CV.pdf)
+
+---
+This portfolio showcases my work in data analysis and business analytics, combining real-world experience with technical projects.
+
+My focus:
 - Transforming raw data into structured insights
 - Building dashboards and analytical tools
 - Supporting data-driven decision-making
 
-## Featured Projects
+---
+
+## ⭐ Featured Project
 
 ### Retail Sales & Pricing Analysis (SQL + Python) (in progress)
 - End-to-end analysis using SQL for data transformation and Python for analysis and visualization
@@ -13,7 +28,9 @@ My focus is on:
 - Demonstrates real-world data analyst workflow\
   👉 [Project coming soon](https://github.com/AnnieQurat/)
 
-## Technical and Academic Projects
+---
+
+## 📊 Technical and Academic Projects
 
 ### Extracting Cyber Threats from Dark Web Data (NER)
 - Built an NLP pipeline to extract cybersecurity entities from unstructured text data
@@ -21,11 +38,15 @@ My focus is on:
 - Applied and evaluated BiLSTM-CRF and BERT models\
 👉 [View Project](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
 
+---
+
 ### Big Data Analysis with Apache Spark
 - Processed large-scale datasets using Spark (RDDs, DataFrames)
 - Computed network metrics and performed distributed aggregations
 - Applied map, reduce, and join transformations for scalable analysis\
 👉 [View Project](https://github.com/AnnieQurat/Big-Data-)
+
+---
 
 ### Selected Machine Learning Projects
 - **Image Classification:** Built classification models to identify image categories and compare model performance (Binary and Multiclass classification using logistic regression, SVR and Decision Trees) 
@@ -39,5 +60,25 @@ My focus is on:
 - **Hand-Signs classification:** Applied classification algorithms (SVM, ANN, Naive Bayes, Decision Trees) to recognize hand signs
   [View Project](https://github.com/AnnieQurat/Hand-signs-classification)
 
+👉 [View All Projects](https://github.com/AnnieQurat)
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python, SQL  
+**Tools:** Power BI, Excel  
+**Databases:** PostgreSQL, MySQL  
+**Other:** Data analysis, dashboards, data modeling  
+
+---
+
 ## About Me
 Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: [https://www.linkedin.com/in/quratulaain/]
+- Email: q.anniee@gmail.com
