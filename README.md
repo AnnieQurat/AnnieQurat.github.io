@@ -5,14 +5,14 @@ My focus is on:
 - Building dashboards and analytical tools
 - Supporting data-driven decision-making
 
-### Featured Projects
-Retail Sales & Pricing Analysis (SQL + Python) (in progress)
+## Featured Projects
+### Retail Sales & Pricing Analysis (SQL + Python) (in progress)
 - End-to-end analysis using SQL for data transformation and Python for analysis and visualization
 - Focused on revenue drivers, discount impact, and regional performance
 - Demonstrates real-world data analyst workflow
 - The code can be found [here](https://github.com/AnnieQurat/)
 
-### Data Science Projects (Academic)
+## Data Science Projects (Academic)
 
 ### Images classification
 - Built classification models to identify image categories using machine learning techniques
