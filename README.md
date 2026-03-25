@@ -41,8 +41,12 @@ My focus is on:
 - Using classification models: SVM, ANN, Naive Bayes, and Decision Trees
 - The code can be found [here](https://github.com/AnnieQurat/Hand-signs-classification)
 
-### Using PyTorch BiLSTM CRF for NER
-- The code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
+### Extracting Cyber Threats from Dark Web Data using NER (MSc Thesis)
+- Built an NLP pipeline to extract cybersecurity-related entities from unstructured Dark Web data
+- Cleaned and preprocessed large-scale text datasets and converted them into structured NER format (BIO tagging)
+- Defined and annotated 14 custom entity types (e.g., attacks, tools, vulnerabilities, protocols) from real-world hacking discussions
+- Applied BiLSTM-CRF and fine-tuned BERT models to identify entities in unseen text data
+- Achieved ~97–98% validation accuracy on benchmark and domain-specific datasetsThe code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
 
 ### About Me
 Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
