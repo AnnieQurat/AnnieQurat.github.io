@@ -1,31 +1,47 @@
-# Data Science Portfolio by Annie Qurat 
+# Data Analyst Portfolio by Annie Qurat 
+This portfolio showcases my work in data analysis, business analytics, and data science, combining real-world experience with technical projects.
+My focus is on:
+- transforming raw data into structured insights
+- building dashboards and analytical tools
+- supporting data-driven decision-making
 
-This portfolio is a compilation of projects I've completed for machine learning, deep learning, data warehousing and data exploration. 
+## Featured Projects
+Retail Sales & Pricing Analysis (SQL + Python) (in progress)
+- End-to-end analysis using SQL for data transformation and Python for analysis and visualization
+- Focused on revenue drivers, discount impact, and regional performance
+- Demonstrates real-world data analyst workflow
 
-## Stand-alone Projects
+# Data Science Projects (Academic)
 
 ### Images classification
-- Using Binary classification and Multiclass classification using logistic regression, SVR and Decision Trees. 
+- Built classification models to identify image categories using machine learning techniques
+- Explored model performance across different algorithms
+- Used Binary classification and Multiclass classification using logistic regression, SVR and Decision Trees. 
 - The code can be found [here](https://github.com/AnnieQurat/Image-classification-)
 
 ### Urban Sound Classification
-- The problem of identifying sounds is related to the frequency distribution, which was plotted here using waveplot graph and MFCC (Mel Frequency Cepstral Coefficient). These features (MFCC) are extracted and Convolutional neural network (CNN) is trained.
+- Extracted MFCC features and trained CNN models to classify urban sounds
+- Focused on feature engineering and deep learning approaches
 - The code can be found [here](https://github.com/AnnieQurat/Sound-Classification)
 
 ### Predicting Car Prices (Part 1)
-- Using Linear Regression, Polynomial transformation, Lasso regularization and SVR
+- Built regression models to estimate car prices using multiple machine learning techniques
+- Compared model performance and regularization approaches
+- Used Linear Regression, Polynomial transformation, Lasso regularization and SVR
 - The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Predicting-Car-Prices-Part-1)
 
 ### Predicting Car Prices (Part 2)
-- Using KNN Regressor, Decision Tree Regressor, Ensemble Bagging Regressor and Random Forest Regressor
+- Used KNN Regressor, Decision Tree Regressor, Ensemble Bagging Regressor and Random Forest Regressor
 - The code can be found [here](https://github.com/AnnieQurat/Machine-Learning-Models-for-Prediction)
 
 ### Hand-Signs classification using data from 1995
+- Applied classification algorithms (SVM, ANN, Naive Bayes, Decision Trees) to recognize hand signs
+- Evaluated model accuracy across different approaches
 - Using classification models: SVM, ANN, Naive Bayes, and Decision Trees
 - The code can be found [here](https://github.com/AnnieQurat/Hand-signs-classification)
 
-## Personal Projects 
-
 ### Using PyTorch BiLSTM CRF for NER
 - The code can be found [here](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
-- The project is under construction 
+
+### About Me
+Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
