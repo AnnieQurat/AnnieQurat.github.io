@@ -54,7 +54,7 @@ My focus is on:
 - Computed user connectivity metrics and network relationships
 - Applied distributed transformations (map, reduce, join) for scalable analysis
 - Performed aggregation and statistical analysis on structured datasets
-- - The code can be found [here](https://github.com/AnnieQurat/Big-Data-)
+- The code can be found [here](https://github.com/AnnieQurat/Big-Data-)
 
 ### About Me
 Data Analyst with experience in cybersecurity and retail analytics, currently working at Siemens Energy. I focus on building analytical solutions that translate complex data into clear, actionable insights.
