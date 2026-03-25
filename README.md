@@ -7,7 +7,7 @@ My focus is on:
 
 ## Featured Projects
 
-#### Retail Sales & Pricing Analysis (SQL + Python) (in progress)
+### Retail Sales & Pricing Analysis (SQL + Python) (in progress)
 - End-to-end analysis using SQL for data transformation and Python for analysis and visualization
 - Analyzed revenue drivers, discount impact, and regional performance
 - Demonstrates real-world data analyst workflow\
@@ -15,19 +15,19 @@ My focus is on:
 
 ## Technical and Academic Projects
 
-#### Extracting Cyber Threats from Dark Web Data (NER)
+### Extracting Cyber Threats from Dark Web Data (NER)
 - Built an NLP pipeline to extract cybersecurity entities from unstructured text data
 - Structured raw data into labeled NER format with custom entity definitions
 - Applied and evaluated BiLSTM-CRF and BERT models\
 👉 [View Project](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
 
-#### Big Data Analysis with Apache Spark
+### Big Data Analysis with Apache Spark
 - Processed large-scale datasets using Spark (RDDs, DataFrames)
 - Computed network metrics and performed distributed aggregations
 - Applied map, reduce, and join transformations for scalable analysis\
 👉 [View Project](https://github.com/AnnieQurat/Big-Data-)
 
-#### Selected Machine Learning Projects
+### Selected Machine Learning Projects
 - **Image Classification:** Built classification models to identify image categories and compare model performance (Binary and Multiclass classification using logistic regression, SVR and Decision Trees) 
   [link](https://github.com/AnnieQurat/Image-classification-)
 - **Urban Sound Classification:** Extracted MFCC features and trained CNN models to classify urban sounds
