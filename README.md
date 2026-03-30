@@ -22,11 +22,14 @@ My focus:
 
 ## ⭐ Featured Project
 
-### Retail Sales & Pricing Analysis (SQL + Python) (in progress)
-- End-to-end analysis using SQL for data transformation and Python for analysis and visualization
-- Analyzed revenue drivers, discount impact, and regional performance
-- Demonstrates real-world data analyst workflow\
-  👉 [Project coming soon](https://github.com/AnnieQurat/)
+### Retail Sales & Profitability Analysis (Python)
+- End-to-end analysis of retail data using Python (Pandas, Matplotlib)
+- Identified discount strategy as the primary driver of profitability
+- Analyzed category and sub-category performance to uncover loss drivers (Furniture: Tables, Bookcases)
+- Evaluated customer segments and shipping modes to understand revenue and profit distribution
+- Demonstrates a structured, business-focused data analysis workflow\
+
+👉 [View Project](https://github.com/AnnieQurat/retail-sales-analysis/blob/main/README.md)
 
 ---
 
@@ -36,6 +39,7 @@ My focus:
 - Built an NLP pipeline to extract cybersecurity entities from unstructured text data
 - Structured raw data into labeled NER format with custom entity definitions
 - Applied and evaluated BiLSTM-CRF and BERT models\
+
 👉 [View Project](https://github.com/AnnieQurat/pytorch-bert-crf-ner)
 
 ---
@@ -44,6 +48,7 @@ My focus:
 - Processed large-scale datasets using Spark (RDDs, DataFrames)
 - Computed network metrics and performed distributed aggregations
 - Applied map, reduce, and join transformations for scalable analysis\
+
 👉 [View Project](https://github.com/AnnieQurat/Big-Data-)
 
 ---
