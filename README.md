@@ -8,7 +8,7 @@ Data Analyst focused on turning complex data into clear business insights.
 ---
 
 ## 📄 Resume
-👉 [Download Resume](https://github.com/AnnieQurat/AnnieQurat.github.io/raw/master/Annie_Qurat_Data_Analyst_CV.pdf)
+👉 [Download Resume](https://github.com/AnnieQurat/AnnieQurat.github.io/raw/master/Annie_Qurat_Resume.pdf)
 
 ---
 This portfolio showcases my work in data analysis and business analytics, combining real-world experience with technical projects.
