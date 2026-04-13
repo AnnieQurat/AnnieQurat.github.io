@@ -20,14 +20,25 @@ My focus:
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
-### Retail Sales & Profitability Analysis (Python)
-- End-to-end analysis of retail data using Python (Pandas, Matplotlib)
-- Identified discount strategy as the primary driver of profitability
-- Analyzed category and sub-category performance to uncover loss drivers (Furniture: Tables, Bookcases)
-- Evaluated customer segments and shipping modes to understand revenue and profit distribution
-- Demonstrates a structured, business-focused data analysis workflow\
+### Retail Sales & Profitability Analysis (SQL + Python)
+- End-to-end analysis of retail sales data using SQL (SQLite) and Python
+- Identified discounting as the primary driver of profitability decline and margin erosion
+- Uncovered loss-making sub-categories (e.g., Tables, Bookcases) despite strong revenue
+- Analyzed customer segments, shipping modes, and geographic performance to evaluate efficiency and value contribution
+- Applied advanced SQL concepts including CTEs, CASE statements, and window functions
+
+👉 [View Project](https://github.com/AnnieQurat/superstore_sql_analysis/blob/main/README.md)
+
+---
+
+### Retail Sales & Profitability Analysis (SQL + Python)
+- Performed end-to-end analysis of retail sales data using SQL and Python
+- Identified discounting as the primary driver of margin erosion
+- Isolated loss-making sub-categories despite strong revenue performance
+- Evaluated segment, shipping, and geographic efficiency across the business
+- Used advanced SQL techniques (CTEs, CASE, window functions) to structure and interpret data 
 
 👉 [View Project](https://github.com/AnnieQurat/retail-sales-analysis/blob/main/README.md)
 
