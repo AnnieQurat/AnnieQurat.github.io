@@ -6,11 +6,6 @@ Data Analyst focused on turning complex data into clear business insights.
 📊 SQL • Python • Power BI  
 
 ---
-
-## 📄 Resume
-👉 [Download Resume](https://github.com/AnnieQurat/AnnieQurat.github.io/raw/master/Data_Analyst.pdf)
-
----
 This portfolio showcases my work in data analysis and business analytics, combining real-world experience with technical projects.
 
 My focus:
