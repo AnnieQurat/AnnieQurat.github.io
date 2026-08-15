@@ -3,6 +3,7 @@
 Data Analyst focused on turning complex data into clear business insights.
 
 📍 Erlangen, Germany | Open to relocation (within Germany)
+
 📊 SQL • Python • Power BI  
 
 ---
